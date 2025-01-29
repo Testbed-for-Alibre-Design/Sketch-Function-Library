@@ -1,9 +1,9 @@
-© 2025 Alibre Design Inc. All rights reserved.
-This source code was authored by Stephen S. Mitchell and is the intellectual property of Alibre Design Inc. All copyrights, trademarks, and associated rights are solely held by Alibre Design Inc.
-This code is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. 
-The author and Alibre Design Inc. disclaim any liability for damages or losses arising from the use, modification, or distribution of this code.
-Any use, reproduction, modification, or distribution of this source code must comply with the terms and conditions set forth by Alibre Design Inc. Unauthorized use is strictly prohibited.
-For inquiries regarding licensing or permissions, please contact Alibre Design Inc.
+//©2025 Alibre Design Inc. All rights reserved.
+//This source code was authored by Stephen S. Mitchell and is the intellectual property of Alibre Design Inc. All copyrights, trademarks, and associated rights are solely held by Alibre Design Inc.
+//This code is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. 
+//The author and Alibre Design Inc. disclaim any liability for damages or losses arising from the use, modification, or distribution of this code.
+//Any use, reproduction, modification, or distribution of this source code must comply with the terms and conditions set forth by Alibre Design Inc. Unauthorized use is strictly prohibited.
+//For inquiries regarding licensing or permissions, please contact Alibre Design Inc.
 public enum ADSketchConstraintType
 {
 	AD_CONSTRAINT_UNKNOWN,
